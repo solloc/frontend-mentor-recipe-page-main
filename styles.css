@@ -24,7 +24,7 @@
 body {
     margin: 0;
     font-family: Outfit, Verdana, Geneva, Tahoma, sans-serif;
-    background-color: var(--color-rose-50);
+    background-color: hsl(28.9,52.9%,90%)
 }
 
 h1, h2, p {
