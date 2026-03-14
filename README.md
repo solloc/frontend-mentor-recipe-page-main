@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github.com/solloc/frontend-mentor-recipe-page](https://github.com/solloc/frontend-mentor-recipe-page)
+- Live Site URL: [solloc.github.io/frontend-mentor-recipe-page](https://solloc.github.io/frontend-mentor-recipe-page/)
 
 ## My process
 
